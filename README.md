@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajaykumarjaganathan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m AK
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning about Machine Learning
+
+- 📫 How to reach me ... on linkdin
 
 <!---
 ajaykumarjaganathan/ajaykumarjaganathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
