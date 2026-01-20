@@ -1,10 +1,6 @@
-- 👋 Hi, I’m AK
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning about Machine Learning
-
-- 📫 How to reach me ... on linkdin
-
-<!---
-ajaykumarjaganathan/ajaykumarjaganathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ajay  
+💻 AI & Data Science enthusiast  
+🚀 Building projects in ML, Web & IoT  
+🌱 Currently learning Machine Learning  
+📫 Reach me via LinkedIn 
+https://ajaykumarjaganathan.github.io/
